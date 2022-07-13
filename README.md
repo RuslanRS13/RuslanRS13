@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### Hi, my name is Ruslan. I am a QA Engineer 
+I have completed the "QA Engineer" course by Vadim Ksendzov
 
 <!--
 **RuslanRS13/RuslanRS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
