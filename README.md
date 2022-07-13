@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### Hi, my name is Ruslan. I am a QA Engineer 
+### :call_me_hand: Hi, my name is Ruslan. I am a QA Engineer 
 I have completed the "QA Engineer" course by Vadim Ksendzov
 
 <!--
