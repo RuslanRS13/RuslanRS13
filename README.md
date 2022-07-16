@@ -14,7 +14,9 @@ I have completed the "QA Engineer" course by Vadim Ksendzov
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-  
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-090909?style=for-the-badge&logo=CharlesProxy)
+![Fiddler](https://img.shields.io/badge/FIDDLER-090909?style=for-the-badge&logo=fiddler&logoColor=Fiddler)
+![JMETER](https://img.shields.io/badge/JMeter-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 
 <!--
